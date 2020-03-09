@@ -1,0 +1,17 @@
+{
+  "name": "cra-template-so-cro",
+  "version": "1.0.0",
+  "description": "The standard cra-template cleaned up and ready to use with sass, firebase, reach/slider, normalize.css, react-router-dom, and other personal preferences.",
+  "keywords": [
+    "react",
+    "template",
+    "cra-template"
+  ],
+  "author": "so-jimm",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "main": "template.json",
+  "license": "ISC"
+}
